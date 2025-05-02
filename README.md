@@ -16,6 +16,4 @@ Alterações no layout e nas cores para dar um toque pessoal
 
 Ajustes na responsividade para melhor adaptação em diferentes telas
 
-Pequenas melhorias na interação com JavaScript
-
 ![PREVIA DO PROJETO ](previa_starbucks.png)
